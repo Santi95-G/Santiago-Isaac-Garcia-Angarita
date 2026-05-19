@@ -19,8 +19,7 @@ Construida con **Node.js + Express** | Curso Lenguajes de Programación para Mó
 ## Instalación y ejecución
 
 ```bash
-git clone https://github.com/TU-USUARIO/coquito-amarillo-api.git
-cd coquito-amarillo-api
+git clone (https://github.com/Tu-usuario/Santiago-Isaac-Garcia-Angarita)
 npm install
 npm run dev   # Servidor en http://localhost:3000
 ```
